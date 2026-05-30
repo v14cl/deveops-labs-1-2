@@ -4,11 +4,11 @@
 
 Посилання на документацію
 
-- [Розрахунок варіанту](./docs/variant.md)
+- [Розрахунок варіанту](https://github.com/v14cl/deveops-labs-1-2/blob/main/lab1/docs/variant.md)
 
-- [Розроблений веб-застосунок](./docs/app.md)
+- [Розроблений веб-застосунок](https://github.com/v14cl/deveops-labs-1-2/blob/main/lab1/docs/app.md)
 
-- [Розгортання](./docs/deploy.md)
+- [Розгортання](https://github.com/v14cl/deveops-labs-1-2/blob/main/lab1/docs/deploy.md)
 
 # devops-labs-1-2
 
